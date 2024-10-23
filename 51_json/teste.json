@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Enivaldo",
+        "idade": 30,
+        "esta_trabalhando": true,
+        "detalhes_profissao": {
+            "profissao": "Programar",
+            "empresa": "Empresa-X"
+        },
+        "hobbies": [
+            "Programar",
+            "Correr",
+            "Ler"
+        ]
+    }
+]
